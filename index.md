@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+# University of Florida Gainesville 
+## Educating for Reproducibility: Pathways to Research Integrity 
+### March 17, 2020
 
 You can use the [editor on GitHub](https://github.com/UniversityofFL/UFRR2020/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
